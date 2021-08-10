@@ -9,11 +9,11 @@
     "test": "yarn lint && jest"
   },
   "devDependencies": {
-    "eslint": "7.28.0",
-    "jest": "27.0.4",
+    "eslint": "7.32.0",
+    "jest": "27.0.6",
     "lerna": "4.0.0"
   },
   "dependencies": {
-    "eslint-plugin-jest": "^24.3.6"
+    "eslint-plugin-jest": "^24.4.0"
   }
 }
